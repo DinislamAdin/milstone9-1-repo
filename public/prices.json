@@ -1,0 +1,22 @@
+[  
+     {
+      "id": 1,
+      "name": "Membership",
+      "features": ["Unlimited gym access", "Free group classes"],
+      "price": 60
+    },
+    {
+      "id": 2,
+      "name": "Personal Training",
+      "features": ["One-on-one training", "Customized workout plan"],
+      "price": 75
+    },
+     {
+      "id": 3,
+      "name": "Classes",
+      "features": ["Yoga", "Pilates", "Kickboxing"],
+      "price": 20
+    }
+    
+  
+]
